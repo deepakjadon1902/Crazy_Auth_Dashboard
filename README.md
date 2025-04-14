@@ -57,8 +57,7 @@ VITE_SUPABASE_URL=your-supabase-url
 VITE_SUPABASE_ANON_KEY=your-anon-key
 🪄 Get your Supabase project keys from your Supabase Dashboard
 
-📸 Visual Madness (Sneak Peek)
-<div align="center"> <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600" alt="Crazy Auth Animation"/> <br/> <em>Warning: Excessive beauty may cause distraction 🤯</em> </div>
+
 🔥 Animations You’ll Fall in Love With
 🌀 Flip cards between login & signup
 
@@ -84,11 +83,7 @@ Let’s make this the most aesthetic auth UI ever built.
 👑 Created by
 Deepak Jadon – your friendly neighborhood UI sorcerer 🔮
 
-🧑‍💻 Portfolio
 
-🐦 Twitter
-
-📫 LinkedIn
 
 ⭐ Love the Vibes?
 Don’t forget to:
